@@ -37,7 +37,7 @@ const BookCover = ({
 
       <div
         className="absolute z-10"
-        style={{ left: "12%", width: "87.5%", height: "88%" }}
+        style={{ left: "12%", width: "87.1%", height: "87.5%" }}
       >
         <Image
           src={coverImage}
